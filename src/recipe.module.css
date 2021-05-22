@@ -1,0 +1,25 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0);
+    margin: 20px;
+    background: rgb(217, 218, 220);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.recipe ol{
+    margin: 0px 10px;
+}
+.recipe img{
+    margin: 5px 5px 20px 5px;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 1px 1px 10px rgb(148, 148, 148);
+    /* border: 1px rgb(115, 114, 114) solid; */
+}
+
+.recipe h1{
+    margin: 5px 5px 5px 5px;
+}
